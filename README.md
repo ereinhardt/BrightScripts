@@ -7,9 +7,9 @@ by Erik Anton Reinhardt.<br>
 
 ## Contents:
 
-`BrightSign-AV-Sync`: BrightSign UDP Trigger Listener script that listens for specified UDP messages to start video playback.
+`BrightSign-AV-Sync`: BrightSign scripts (Master and Clients) that synchronize BrightSign players (audio and video) by sending messages over Ethernet.
 
-`BrightSign-UDP-Trigger-Listener`: BrightSign UDP Trigger Listener script that syncs multiple BrightSigns (Audio and Video) by sending messages over ethernet.
+`BrightSign-UDP-Trigger-Listener`: BrightSign script that listens for specified UDP messages to start video playback.
 
 **Note**: <br>
 
