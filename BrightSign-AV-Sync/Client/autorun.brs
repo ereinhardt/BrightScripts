@@ -13,7 +13,7 @@
 ' Variables
 
 ClientNumber = 1
-'    IMPORTANT: Enter the client number here (1, 2, 3... up to 240)
+'    IMPORTANT: Enter the client number here (1, 2, 3... up to 240). Each client needs to have a unique number. 
 
 videoFile = "auto"
 '    (use "auto" to automatically play the first or only movie on the SD card, otherwise insert the filename of your video "in quotes")
@@ -34,7 +34,6 @@ audioVolume = 15
 
 ' *** Scroll down to the "Setting Manual IP address" section if you
 '     want to choose a different IP range or enable DHCP. 
-'     Most people don't need to do this!
 
 
 ' VIDEO MODES
