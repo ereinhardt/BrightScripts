@@ -7,8 +7,6 @@ by Erik Anton Reinhardt.<br>
 
 ---
 
-## Usage
-
 **Master Script**: <br>
 
 - Copy autorun.brs to the root of the BrightSign microSD card.
