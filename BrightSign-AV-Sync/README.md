@@ -5,6 +5,10 @@ BrightSign scripts (Master and Clients) that synchronize BrightSign players (aud
 by Erik Anton Reinhardt.<br>
 [MIT License]
 
+---
+
+## Usage
+
 **Master Script**: <br>
 
 - Copy autorun.brs to the root of the BrightSign microSD card.
