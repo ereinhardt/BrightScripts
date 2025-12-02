@@ -1,18 +1,24 @@
-# BrightScripts
+# BrightSign-AV-Sync (v.1.1-11-2025)
 
-Various BrightScript `autorun.brs` applications for BrightSign media players.
+BrightSign scripts (Master and Clients) that synchronize BrightSign players (audio and video) by sending messages over Ethernet.
 
-by Erik Anton Reinhardt.<br>
+by Erik Anton Reinhardt (Based on Zach Poff).<br>
 [MIT License]
 
-## Contents:
+---
 
-- `BrightSign-AV-Sync`: BrightSign scripts (Master and Clients) that synchronize BrightSign players (audio and video) by sending messages over Ethernet.
-- `BrightSign-UDP-Trigger-Listener`: BrightSign script that listens for specified UDP messages to start video playback.
+**Master Script**: <br>
 
-**Note**: <br>
+- Copy autorun.brs to the root of the BrightSign microSD card.
+- Place a single video or audio file in the same location; it will be detected automatically.
+- Configure the output settings as described in the script.
 
-- Detailed documentation and specific application descriptions can be found in each script’s directory, as well as in the comments within the script.
+**Client Script**: <br>
+
+- Copy autorun.brs to the root of the BrightSign microSD card.
+- Place a single video or audio file in the same location; it will be detected automatically.
+- Set the client number at the top of autorun.brs (each client must have a unique number).
+- Configure the output settings as described in the script.
 
 ## Known Bugs (TODO):
 
