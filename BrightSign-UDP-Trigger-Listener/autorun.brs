@@ -4,7 +4,7 @@
 ' Usage
 ' Place this script at the root of a blank microSD card.
 ' Typically this file would be named to autorun.brs so it starts automatically.
-' Put one video file at the root of a blank microSD card as well.
+' Put one video or audio file (MOV, MP4, MPG, VOB, MP3, WAV, OGG, TS) at the root of a blank microSD card as well.
 ' Send a UDP Trigger-Message (e.g. "START") to trigger video playback.
 ' Make adjustments to the variables below.
 
@@ -101,7 +101,7 @@ sub Main()
         list = ListDir("/")
         countFound = 0
         for each file in list
-            if ucase(right(file,3)) = "MOV" or ucase(right(file,3)) = "MP4" or ucase(right(file,3)) = "MPG" or ucase(right(file,3)) = "VOB" or ucase(right(file,2)) = "TS" then 
+            if ucase(right(file,3)) = "MOV" or ucase(right(file,3)) = "MP4" or ucase(right(file,3)) = "MPG" or ucase(right(file,3)) = "VOB" or ucase(right(file,3)) = "MP3" or ucase(right(file,3)) = "WAV" or ucase(right(file,3)) = "OGG" or ucase(right(file,2)) = "TS" then  
                 if not left(file,1) = "." then 'reject dotfiles!
                     mylist[countFound] = file
                     countFound = countFound + 1
