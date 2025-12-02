@@ -9,15 +9,15 @@ by Erik Anton Reinhardt (Based on Zach Poff).<br>
 
 **Master Script**: <br>
 
-- Copy autorun.brs to the root of the BrightSign microSD card.
+- Copy `autorun.brs` to the root of the BrightSign microSD card.
 - Place a single video or audio file in the same location; it will be detected automatically.
 - Configure the output settings as described in the script.
 
 **Client Script**: <br>
 
-- Copy autorun.brs to the root of the BrightSign microSD card.
+- Copy `autorun.brs` to the root of the BrightSign microSD card.
 - Place a single video or audio file in the same location; it will be detected automatically.
-- Set the client number at the top of autorun.brs (each client must have a unique number).
+- Set the client number at the top of the script (each client must have a unique number).
 - Configure the output settings as described in the script.
 
 ## Known Bugs (TODO):
