@@ -1,6 +1,6 @@
 # BrightSign-UDP-Trigger-Listener (v.1.0-11-2025)
 
-BrightSign scripts (Master and Clients) that synchronize BrightSign players (audio and video) by sending messages over Ethernet.
+BrightSign script that listens for specified UDP messages to start video and audio playback.
 
 by Erik Anton Reinhardt.<br>
 [MIT License]
