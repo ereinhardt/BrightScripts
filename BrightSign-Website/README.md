@@ -9,7 +9,7 @@ by Erik Anton Reinhardt.<br>
 
 **UDP Script**: <br>
 
-- Copy autorun.brs to the root of the BrightSign microSD card.
+- Copy `autorun.brs` to the root of the BrightSign microSD card.
 - Configure the output settings as described in the script.
 - Configure the website URL.
 
