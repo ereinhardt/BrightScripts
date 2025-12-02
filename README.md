@@ -5,6 +5,8 @@ Various BrightScript `autorun.brs` applications for BrightSign media players.
 by Erik Anton Reinhardt.<br>
 [MIT License]
 
+---
+
 ## Contents:
 
 - `BrightSign-AV-Sync`: A set of BrightSign scripts (Master and Client) that synchronize audio and video playback across BrightSign players by sending messages over Ethernet.
