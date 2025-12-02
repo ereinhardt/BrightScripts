@@ -9,7 +9,7 @@ by Erik Anton Reinhardt.<br>
 
 **UDP Script**: <br>
 
-- Copy autorun.brs to the root of the BrightSign microSD card.
+- Copy `autorun.brs` to the root of the BrightSign microSD card.
 - Place a single video or audio file in the same location; it will be detected automatically.
 - Configure the output settings as described in the script.
 - Configure the trigger string it should listen to on the network.
