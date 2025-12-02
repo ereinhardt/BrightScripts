@@ -13,7 +13,3 @@ by Erik Anton Reinhardt.<br>
 **Note**: <br>
 
 - Detailed documentation and specific application descriptions can be found in each script’s directory, as well as in the comments within the script.
-
-## Known Bugs (TODO):
-
-–No Bugs know–
