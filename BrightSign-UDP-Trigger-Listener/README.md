@@ -2,7 +2,7 @@
 
 BrightSign scripts (Master and Clients) that synchronize BrightSign players (audio and video) by sending messages over Ethernet.
 
-by Erik Anton Reinhardt (Based on Zach Poff).<br>
+by Erik Anton Reinhardt.<br>
 [MIT License]
 
 ---
