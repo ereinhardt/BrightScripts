@@ -1,6 +1,6 @@
 # BrightSign-AV-Sync (v.1.1-11-2025)
 
-BrightSign scripts (Master and Clients) that synchronize BrightSign players (audio and video) by sending messages over Ethernet.
+A set of BrightSign scripts (Master and Client) that synchronize audio and video playback across BrightSign players by sending messages over Ethernet.
 
 by Erik Anton Reinhardt (Based on Zach Poff).<br>
 [MIT License]
