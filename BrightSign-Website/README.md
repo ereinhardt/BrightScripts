@@ -1,4 +1,4 @@
-# BrightSign-UDP-Trigger-Listener (v.1.0-11-2025)
+# BrightSign-Website (v.1.0-11-2025)
 
 A BrightSign script that listens for specified UDP messages to start video and audio playback.
 
