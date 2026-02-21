@@ -19,7 +19,3 @@ by Erik Anton Reinhardt (Based on Zach Poff).<br>
 - Place a single video or audio file in the same location; it will be detected automatically.
 - Set the client number at the top of the script (each client must have a unique number).
 - Configure the output settings as described in the script.
-
-## Known Bugs (TODO):
-
-–No Bugs know–
