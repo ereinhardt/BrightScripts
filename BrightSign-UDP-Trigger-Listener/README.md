@@ -13,7 +13,3 @@ by Erik Anton Reinhardt.<br>
 - Place a single video or audio file in the same location; it will be detected automatically.
 - Configure the output settings as described in the script.
 - Configure the trigger string it should listen to on the network.
-
-## Known Bugs (TODO):
-
-–No Bugs know–
