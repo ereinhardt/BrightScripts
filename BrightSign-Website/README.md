@@ -12,7 +12,3 @@ by Erik Anton Reinhardt.<br>
 - Copy `autorun.brs` to the root of the BrightSign microSD card.
 - Configure the output settings as described in the script.
 - Configure the website URL.
-
-## Known Bugs (TODO):
-
-–No Bugs know–
