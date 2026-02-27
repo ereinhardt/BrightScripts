@@ -16,3 +16,4 @@ by Erik Anton Reinhardt.<br>
 **Note**: <br>
 
 - Detailed documentation and specific application descriptions can be found in each script’s directory, as well as in the comments within the script.
+- You probably don’t need to edit the scripts, so you can ignore this section. Warning: Apple’s TextEdit app will break your scripts! It will silently convert straight quotes to “smart quotes” and other substitutions that corrupt the code. 
