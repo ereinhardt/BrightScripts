@@ -18,3 +18,4 @@ by Erik Anton Reinhardt.<br>
 
 - Detailed documentation and specific application descriptions can be found in each script’s directory, as well as in the comments within the script.
 - Warning: Apple’s TextEdit app will break your scripts when you edit them! It will silently convert straight quotes to “smart quotes” and other substitutions that corrupt the code.
+- The SD card needs to be formatted as FAT32 or exFAT.
