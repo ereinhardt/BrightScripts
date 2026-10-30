@@ -11,7 +11,8 @@ by Erik Anton Reinhardt.<br>
 
 - `BrightSign-AV-Sync`: A set of BrightSign scripts (Master and Client) that synchronize audio and video playback across BrightSign players by sending messages over Ethernet.
 - `BrightSign-Image`: A simple BrightSign script that displays a single image or a slideshow of images on one player.
-- `Brightsign-Solo-Loop`: A simple BrightSign script that loops a single video or audio file on one player.
+- `BrightSign-Playlist-Loop`: A simple BrightSign script that plays a list of video or audio files one after another in a loop on one player.
+- `BrightSign-Solo-Loop`: A simple BrightSign script that loops a single video or audio file on one player.
 - `BrightSign-UDP-Trigger-Listener`: A BrightSign script that listens for specified UDP messages to start video and audio playback.
 - `BrightSign-Website`: A BrightSign script that displays a specified website.
 
